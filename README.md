@@ -12,3 +12,4 @@ and open your browser and Enter
 ```
 http://127.0.0.1:8000
 ```
+Note: you can change "words.txt" For personalization
